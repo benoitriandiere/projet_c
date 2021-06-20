@@ -1,0 +1,8 @@
+Dans le main.c :
+On aura en premier lieu un menus qui nous dirigera sur l'algorithme désiré.
+Ensuite pour chaque algorithme on devra entrer une clé et un message.
+Ensuite on repars sur le menu pour pouvoir choisir un autre algorithme ou quitter.
+
+Dans le fonction.c :
+on trouvera toutes les fonctions de cryptage et decryptage
+les fonction de décryptage sont les fonctions de cryptage mais avec la clé inversé.
